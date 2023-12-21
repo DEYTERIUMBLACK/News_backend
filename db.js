@@ -47,7 +47,7 @@ const news = [
     createdAt:"01.10.2003",
     linkURL:"example.url",
     thumbnail:"example.url",
-    newsBody:"bu nedi mk"
+    newsBody:"bu nedi"
   }
 ]  
 
